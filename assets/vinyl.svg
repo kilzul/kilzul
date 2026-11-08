@@ -1,23 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
-  <title id="title">Spinning vinyl record</title>
-  <desc id="desc">A stylized vinyl record with warm café colors.</desc>
-  <defs>
-    <radialGradient id="record" cx="38%" cy="32%" r="70%">
-      <stop offset="0" stop-color="#6b4439"/>
-      <stop offset=".42" stop-color="#3e2723"/>
-      <stop offset="1" stop-color="#1f1513"/>
-    </radialGradient>
-  </defs>
-  <circle cx="160" cy="160" r="145" fill="#c68b59" opacity=".22"/>
-  <circle cx="160" cy="160" r="132" fill="url(#record)" stroke="#c68b59" stroke-width="4"/>
-  <g fill="none" stroke="#765548" stroke-width="2" opacity=".75">
-    <circle cx="160" cy="160" r="112"/>
-    <circle cx="160" cy="160" r="92"/>
-    <circle cx="160" cy="160" r="72"/>
-    <circle cx="160" cy="160" r="52"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="4s" repeatCount="indefinite"/>
+    <circle cx="100" cy="100" r="95" fill="#1a1a1a"/>
+    <circle cx="100" cy="100" r="82" fill="none" stroke="#333" stroke-width="1"/>
+    <circle cx="100" cy="100" r="70" fill="none" stroke="#2a2a2a" stroke-width="1"/>
+    <circle cx="100" cy="100" r="58" fill="none" stroke="#333" stroke-width="1"/>
+    <circle cx="100" cy="100" r="46" fill="none" stroke="#2a2a2a" stroke-width="1"/>
+    <path d="M 40 60 A 70 70 0 0 1 80 33" stroke="#666" stroke-width="3" fill="none" opacity="0.5"/>
+    <circle cx="100" cy="100" r="32" fill="#C68B59"/>
+    <circle cx="100" cy="82" r="5" fill="#F5E6D3"/>
+    <circle cx="100" cy="100" r="4" fill="#1a1a1a"/>
   </g>
-  <circle cx="160" cy="160" r="39" fill="#c68b59"/>
-  <circle cx="160" cy="160" r="12" fill="#3e2723"/>
-  <circle cx="156" cy="156" r="4" fill="#f5e6d3" opacity=".8"/>
-  <path d="M72 86c20-24 47-40 77-46" fill="none" stroke="#fff8ed" stroke-linecap="round" stroke-width="8" opacity=".15"/>
 </svg>
