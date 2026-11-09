@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 689" width="700" height="689">
+  <rect width="700" height="689" fill="#F5E6D3"/>
+  <line x1="60" y1="14" x2="640" y2="14" stroke="#C68B59" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <text x="350" y="70" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" letter-spacing="6" fill="#3E2723">TODAY'S MENU</text>
+  <text x="350" y="99" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#C68B59">~ the daily specials, served fresh from GitHub ~</text>
+  <line x1="200" y1="117" x2="500" y2="117" stroke="#C68B59" stroke-width="1.5"/>
+
+  <text x="60" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Repositories</text>
+  <line x1="240" y1="165" x2="520" y2="165" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="170" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">2</text>
+  <text x="60" y="210" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Stars Earned</text>
+  <line x1="240" y1="205" x2="520" y2="205" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="210" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">0</text>
+  <text x="60" y="250" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Followers</text>
+  <line x1="240" y1="245" x2="520" y2="245" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="250" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">1</text>
+  <text x="60" y="290" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Contributions</text>
+  <line x1="240" y1="285" x2="520" y2="285" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="290" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">67 this year</text>
+  <text x="60" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Current Streak</text>
+  <line x1="240" y1="325" x2="520" y2="325" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="330" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">3 days</text>
+  <text x="60" y="370" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Longest Streak</text>
+  <line x1="240" y1="365" x2="520" y2="365" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="370" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">7 days</text>
+
+  <line x1="60" y1="404" x2="640" y2="404" stroke="#C68B59" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <text x="350" y="450" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" letter-spacing="6" fill="#3E2723">HOUSE BLENDS</text>
+  <text x="350" y="479" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#C68B59">~ most-used languages ~</text>
+  <line x1="200" y1="497" x2="500" y2="497" stroke="#C68B59" stroke-width="1.5"/>
+
+  <text x="60" y="535" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">JavaScript</text>
+  <rect x="220" y="521" width="330" height="14" rx="7" fill="#E6D2BC"/>
+  <rect x="220" y="521" width="155" height="14" rx="7" fill="#C68B59"/>
+  <text x="640" y="535" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">47%</text>
+  <text x="60" y="573" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">HTML</text>
+  <rect x="220" y="559" width="330" height="14" rx="7" fill="#E6D2BC"/>
+  <rect x="220" y="559" width="66" height="14" rx="7" fill="#C68B59"/>
+  <text x="640" y="573" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">20%</text>
+  <text x="60" y="611" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">CSS</text>
+  <rect x="220" y="597" width="330" height="14" rx="7" fill="#E6D2BC"/>
+  <rect x="220" y="597" width="58" height="14" rx="7" fill="#C68B59"/>
+  <text x="640" y="611" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">17%</text>
+  <text x="60" y="649" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">Python</text>
+  <rect x="220" y="635" width="330" height="14" rx="7" fill="#E6D2BC"/>
+  <rect x="220" y="635" width="51" height="14" rx="7" fill="#C68B59"/>
+  <text x="640" y="649" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">16%</text>
+</svg>
