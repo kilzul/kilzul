@@ -1,24 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" width="700" height="440">
-  <rect width="700" height="440" rx="18" fill="#F5E6D3"/>
-  <rect x="14" y="14" width="672" height="412" rx="12" fill="none" stroke="#3E2723" stroke-width="2"/>
-  <rect x="22" y="22" width="656" height="396" rx="8" fill="none" stroke="#C68B59" stroke-width="1" stroke-dasharray="4 4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 650" width="700" height="650">
+  <rect width="700" height="650" fill="#F5E6D3"/>
+  <line x1="60" y1="14" x2="640" y2="14" stroke="#C68B59" stroke-width="1.5" stroke-dasharray="4 4"/>
 
   <text x="350" y="75" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" letter-spacing="6" fill="#3E2723">SIGNATURE DRINKS</text>
-  <text x="350" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#C68B59">~ freshly brewed, made to order ~</text>
-  <line x1="200" y1="120" x2="500" y2="120" stroke="#C68B59" stroke-width="1.5"/>
+  <text x="350" y="104" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#C68B59">~ freshly brewed, made to order ~</text>
+  <line x1="200" y1="122" x2="500" y2="122" stroke="#C68B59" stroke-width="1.5"/>
 
-  <text x="60" y="170" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3E2723">Snoozely</text>
-  <line x1="190" y1="165" x2="520" y2="165" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
-  <text x="640" y="170" text-anchor="end" font-family="Georgia, serif" font-size="18" fill="#3E2723">full-stack</text>
-  <text x="60" y="198" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#5D4037">Journal your sleep, rate it, and see your patterns over time.</text>
+  <text x="60" y="172" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3E2723">Snoozely</text>
+  <line x1="190" y1="167" x2="520" y2="167" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="172" text-anchor="end" font-family="Georgia, serif" font-size="18" fill="#3E2723">full-stack</text>
+  <text x="60" y="202" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5D4037">Journal your sleep, rate it, and see your patterns over time.</text>
 
-  <text x="60" y="270" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3E2723">uoDate</text>
-  <line x1="190" y1="265" x2="520" y2="265" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
-  <text x="640" y="270" text-anchor="end" font-family="Georgia, serif" font-size="18" fill="#3E2723">UI prototype</text>
-  <text x="60" y="298" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#5D4037">A dating app interface. Still in the oven.</text>
+  <text x="60" y="272" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3E2723">uoDate</text>
+  <line x1="190" y1="267" x2="520" y2="267" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="272" text-anchor="end" font-family="Georgia, serif" font-size="18" fill="#3E2723">UI prototype</text>
+  <text x="60" y="302" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5D4037">A dating app interface. Still in the oven.</text>
 
-  <text x="60" y="370" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3E2723">Next Special</text>
-  <line x1="215" y1="365" x2="520" y2="365" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
-  <text x="640" y="370" text-anchor="end" font-family="Georgia, serif" font-size="18" fill="#3E2723">$ ?.??</text>
-  <text x="60" y="398" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#5D4037">Something new is brewing. Check back soon.</text>
+  <text x="60" y="372" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3E2723">Next Special</text>
+  <line x1="215" y1="367" x2="520" y2="367" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <text x="640" y="372" text-anchor="end" font-family="Georgia, serif" font-size="18" fill="#3E2723">$ ?.??</text>
+  <text x="60" y="402" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5D4037">Something new is brewing. Check back soon.</text>
+
+  <line x1="60" y1="444" x2="640" y2="444" stroke="#C68B59" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <text x="350" y="500" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" letter-spacing="6" fill="#3E2723">INGREDIENTS</text>
+  <text x="350" y="529" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#C68B59">~ what goes into every cup ~</text>
+  <line x1="200" y1="547" x2="500" y2="547" stroke="#C68B59" stroke-width="1.5"/>
+
+  <text x="350" y="595" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#3E2723">Python  ·  HTML  ·  CSS  ·  JavaScript  ·  Git</text>
+  <text x="350" y="630" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#3E2723">VS Code  ·  Figma  ·  Vite  ·  Electron</text>
 </svg>

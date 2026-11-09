@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" width="700" height="440">
+  <rect width="700" height="440" fill="#F5E6D3"/>
+  <rect width="700" height="10" fill="#3E2723"/>
+
+  <text x="350" y="90" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="bold" fill="#3E2723">Welcome to kilzul's Cafe</text>
+
+  <text x="350" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#C68B59">Now brewing: code
+    <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.333;0.666" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#C68B59" opacity="0">Freshly baked commits
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.333;0.666" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#C68B59" opacity="0">Open 24/7
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.333;0.666" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <line x1="60" y1="178" x2="640" y2="178" stroke="#C68B59" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <text x="350" y="228" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="bold" letter-spacing="6" fill="#3E2723">OUR STORY</text>
+  <line x1="250" y1="246" x2="450" y2="246" stroke="#C68B59" stroke-width="1.5"/>
+
+  <text x="350" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#5D4037">Hi, I'm Raheil Bryce! I'm a student at the University of Ottawa</text>
+  <text x="350" y="324" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#5D4037">who loves building things with JavaScript. Right now I'm working</text>
+  <text x="350" y="356" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#5D4037">on uoDate, a dating app UI prototype, and learning Node.js.</text>
+  <text x="350" y="388" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#5D4037">Ask me about video games, especially Pokémon and Super Smash Bros.</text>
+</svg>

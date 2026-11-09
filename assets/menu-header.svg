@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 130" width="700" height="130">
-  <rect width="700" height="130" rx="18" fill="#F5E6D3"/>
-  <rect x="10" y="10" width="680" height="110" rx="12" fill="none" stroke="#3E2723" stroke-width="2"/>
-  <rect x="17" y="17" width="666" height="96" rx="8" fill="none" stroke="#C68B59" stroke-width="1" stroke-dasharray="4 4"/>
-  <text x="350" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="bold" letter-spacing="6" fill="#3E2723">TODAY'S MENU</text>
-  <text x="350" y="90" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#C68B59">~ the daily specials, served fresh from GitHub ~</text>
+  <rect width="700" height="130" fill="#F5E6D3"/>
+  <line x1="60" y1="14" x2="640" y2="14" stroke="#C68B59" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="350" y="65" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" letter-spacing="6" fill="#3E2723">TODAY'S MENU</text>
+  <text x="350" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#C68B59">~ the daily specials, served fresh from GitHub ~</text>
 </svg>
