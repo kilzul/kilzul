@@ -14,6 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Update stats
+        run: node scripts/update-stats.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Pick today's song
         run: node scripts/update-song.js
 
@@ -21,6 +26,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/now-playing.svg
-          git diff --cached --quiet || git commit -m "Update song of the day"
+          git add README.md assets/now-playing.svg assets/stats.svg
+          git diff --cached --quiet || git commit -m "Update song and stats"
           git push

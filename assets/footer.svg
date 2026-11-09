@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 80" width="700" height="80">
+  <rect width="700" height="80" fill="#F5E6D3"/>
+  <text x="350" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-style="italic" fill="#C68B59">Tip jar: a star on my repos is always appreciated.</text>
+  <rect y="68" width="700" height="12" fill="#3E2723"/>
+</svg>
