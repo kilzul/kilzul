@@ -6,7 +6,7 @@
 <img src="https://streak-stats.demolab.com/?user=kilzul&background=F5E6D3&hide_border=true&ring=C68B59&fire=C68B59&currStreakNum=3E2723&sideNums=3E2723&currStreakLabel=C68B59&sideLabels=5D4037&dates=5D4037" width="100%" alt="Contribution streak" />
 <img src="https://raw.githubusercontent.com/kilzul/kilzul/main/assets/drinks-menu.svg" width="100%" alt="Signature Drinks: Snoozely, a full-stack sleep tracker; uoDate, a dating app UI prototype; and a coming-soon special. Ingredients: Python, HTML, CSS, JavaScript, Git, VS Code, Figma, Vite, Electron." />
 <!-- SONG:START -->
-<img src="https://raw.githubusercontent.com/kilzul/kilzul/main/assets/now-playing.svg" width="100%" alt="Now playing, plus contact info." />
+<img src="https://raw.githubusercontent.com/kilzul/kilzul/main/assets/now-playing.svg?v=20766" width="100%" alt="Now playing: i love you by Billie Eilish. Contact: rahsb8@gmail.com, Discord kilzul_qoka." />
 <!-- SONG:END -->
 </p>
 
