@@ -13,8 +13,8 @@
 
   <text x="60" y="272" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3E2723">uoDate</text>
   <line x1="190" y1="267" x2="520" y2="267" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
-  <text x="640" y="272" text-anchor="end" font-family="Georgia, serif" font-size="18" fill="#3E2723">UI prototype</text>
-  <text x="60" y="302" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5D4037">A dating app interface. Still in the oven.</text>
+  <text x="640" y="272" text-anchor="end" font-family="Georgia, serif" font-size="18" fill="#3E2723">school project</text>
+  <text x="60" y="302" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5D4037">Promotional website for dating service.</text>
 
   <text x="60" y="372" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3E2723">Next Special</text>
   <line x1="215" y1="367" x2="520" y2="367" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
