@@ -20,7 +20,7 @@
   <text x="640" y="290" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">78 this year</text>
   <text x="60" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Current Streak</text>
   <line x1="240" y1="325" x2="520" y2="325" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
-  <text x="640" y="330" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">3 days</text>
+  <text x="640" y="330" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">0 days</text>
   <text x="60" y="370" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Longest Streak</text>
   <line x1="240" y1="365" x2="520" y2="365" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
   <text x="640" y="370" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">7 days</text>
