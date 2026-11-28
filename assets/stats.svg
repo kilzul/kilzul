@@ -17,10 +17,10 @@
   <text x="640" y="250" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">3</text>
   <text x="60" y="290" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Contributions</text>
   <line x1="240" y1="285" x2="520" y2="285" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
-  <text x="640" y="290" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">88 this year</text>
+  <text x="640" y="290" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">95 this year</text>
   <text x="60" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Current Streak</text>
   <line x1="240" y1="325" x2="520" y2="325" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
-  <text x="640" y="330" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">2 days</text>
+  <text x="640" y="330" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">3 days</text>
   <text x="60" y="370" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#3E2723">Longest Streak</text>
   <line x1="240" y1="365" x2="520" y2="365" stroke="#C68B59" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
   <text x="640" y="370" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3E2723">7 days</text>
@@ -33,18 +33,18 @@
 
   <text x="60" y="535" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">JavaScript</text>
   <rect x="220" y="521" width="330" height="14" rx="7" fill="#E6D2BC"/>
-  <rect x="220" y="521" width="185" height="14" rx="7" fill="#C68B59"/>
-  <text x="640" y="535" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">56%</text>
-  <text x="60" y="573" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">HTML</text>
+  <rect x="220" y="521" width="174" height="14" rx="7" fill="#C68B59"/>
+  <text x="640" y="535" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">53%</text>
+  <text x="60" y="573" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">CSS</text>
   <rect x="220" y="559" width="330" height="14" rx="7" fill="#E6D2BC"/>
-  <rect x="220" y="559" width="62" height="14" rx="7" fill="#C68B59"/>
-  <text x="640" y="573" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">19%</text>
-  <text x="60" y="611" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">CSS</text>
+  <rect x="220" y="559" width="73" height="14" rx="7" fill="#C68B59"/>
+  <text x="640" y="573" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">22%</text>
+  <text x="60" y="611" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">HTML</text>
   <rect x="220" y="597" width="330" height="14" rx="7" fill="#E6D2BC"/>
-  <rect x="220" y="597" width="45" height="14" rx="7" fill="#C68B59"/>
-  <text x="640" y="611" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">14%</text>
+  <rect x="220" y="597" width="54" height="14" rx="7" fill="#C68B59"/>
+  <text x="640" y="611" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">16%</text>
   <text x="60" y="649" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">Python</text>
   <rect x="220" y="635" width="330" height="14" rx="7" fill="#E6D2BC"/>
-  <rect x="220" y="635" width="37" height="14" rx="7" fill="#C68B59"/>
-  <text x="640" y="649" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">11%</text>
+  <rect x="220" y="635" width="30" height="14" rx="7" fill="#C68B59"/>
+  <text x="640" y="649" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#3E2723">9%</text>
 </svg>
